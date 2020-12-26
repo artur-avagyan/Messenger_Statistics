@@ -8,14 +8,14 @@ Statistical facts, tables and graphs
 <h4 align=\"left\">Artur Avagyan</h4>
     <ul>
     <li>Actuarial supervisor at Central Bank of Armenia</li>
-    <li>E-mail: avagyan.artur97@gmail.com</li>
+    <li>E-mail:   avagyan.artur97@gmail.com</li>
     <li>LinkedIn: <a href="https://www.linkedin.com/in/artur-avagyan-0a16311b3">Artur Avagyan</a></li>
-    <li>Phone: +37498641815</li>
+    <li>Phone:    +37498641815</li>
     </ul>
 
 <h4 align=\"left\">Tigranuhi Tirabyan</h4>
     <ul>
     <li>Student from YSU (Data Science for Business Master's Degree Program)</li>
     <li>E-mail: tirabyan0599@gmail.com</li>
-    <li>Phone: +37477746434</li>
+    <li>Phone:  +37477746434</li>
     </ul>
